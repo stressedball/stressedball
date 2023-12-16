@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there / Bonjour 👋 
+
+I'm Talal. 
+I love coding, the web and the creative potential.
 
 <!--
 **stressedball/stressedball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
